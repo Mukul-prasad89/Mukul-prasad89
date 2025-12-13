@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=anuj846k&label=Profile%20views&color=0e75b6&style=flat" alt="anuj846k" />
+</p>
+
 # 💫 About Me:
 🏗️ I’m currently working on building full-stack web applications using React, Node.js, and MongoDB, while improving my system design skills.<br><br>🤝 I’m looking to collaborate on open-source projects or hackathons focused on web apps, AI, or social-impact solutions.<br><br>🧠 I’m looking for help with backend optimization and cloud deployment strategies.<br><br>🌱 I’m currently learning Predictive Analysis, Machine Learning and advanced Data Structures & Algorithms.<br><br>💬 Ask me about web development, frontend animations with Framer Motion, or how to start with full-stack development.<br><br>⚡ Fun fact: I love building things that merge creativity with logic — and I  learn music theories and also sing Hindi songs with my acoustic guitar when I’m not coding 🎸
 
